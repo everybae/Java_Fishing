@@ -5,3 +5,7 @@
 language - Java 1.8  
 DB - Oracle 11g  
 OS - win 10  
+  
+  
+동해안 낚시포인트 정보제공  
+아주 간단한 Java 프로젝트과제
